@@ -19,3 +19,11 @@ img{
     border-radius: 5%;
     filter: drop-shadow(10px 10px 5px black);
 }
+
+.title{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
